@@ -1,3 +1,6 @@
+working in progres
+to not download the file in the repositories tanks
+
 To issue the license, please contact this email:
   networkgames.neverstopideas.info@gmail.com
 and specify the use of the app, the role in any company and a name or contact.
